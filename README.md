@@ -70,8 +70,7 @@ This project implements a personalized book recommendation engine using machine 
 - **Serialization:** Models saved as `.pickle` files for fast inference
 - **Recommendation Engine:** Main logic in `main.py` and `Book_Recommendation.ipynb`
 
-## Results Overview
-
+## Results
 
 ## 🛠️ Installation
 1. **Clone the repository:**
