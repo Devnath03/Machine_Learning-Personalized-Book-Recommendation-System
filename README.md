@@ -71,7 +71,11 @@ This project implements a personalized book recommendation engine using machine 
 - **Recommendation Engine:** Main logic in `main.py` and `Book_Recommendation.ipynb`
 
 ## Results Overview
+<img width="1027" height="790" alt="Screenshot 2025-08-09 200712" src="https://github.com/user-attachments/assets/56183932-102e-4b37-af5d-0dab4ad8c680" />
 
+<img width="1021" height="444" alt="Screenshot 2025-08-09 200540" src="https://github.com/user-attachments/assets/9ad8eb36-c344-48d1-bddb-b48d4ee478dd" />
+
+<img width="987" height="436" alt="Screenshot 2025-08-09 200646" src="https://github.com/user-attachments/assets/ed729175-4922-405c-a559-623dca393b75" />
 
 ## 🛠️ Installation
 1. **Clone the repository:**
