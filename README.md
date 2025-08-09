@@ -72,6 +72,12 @@ This project implements a personalized book recommendation engine using machine 
 
 ## Results Overview
 
+<img width="1027" height="790" alt="image" src="https://github.com/user-attachments/assets/47eac84d-e4a4-4af4-8189-51ebc0b10b1b" />
+
+<img width="1021" height="443" alt="image" src="https://github.com/user-attachments/assets/19afc94d-76dd-4fe6-8520-0b4919584c14" />
+
+<img width="987" height="436" alt="image" src="https://github.com/user-attachments/assets/c8c77b8a-e551-4328-ba35-9e9e16efa48e" />
+
 
 ## 🛠️ Installation
 1. **Clone the repository:**
